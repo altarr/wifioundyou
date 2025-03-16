@@ -18,6 +18,14 @@ This Python script uses the [Wigle API](https://api.wigle.net/swagger) to retrie
   ```
 - Valid Wigle API credentials
 
+## Obtaining Your Wigle API Key
+
+1. Visit Wigle.net and sign up for an account if you don't already have one.
+2. Log in to your Wigle account.
+3. Navigate to your profile page (often found by clicking your username or via a "Profile" link).
+4. Look for the API section or API key information. Follow the instructions provided on the site to request or view your API key.
+5. Once you have your API key and password, update the script as described in the Installation section below.
+
 ## Installation
 
 1. Clone or download the repository containing the `locator.py` script.
