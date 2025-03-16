@@ -1,7 +1,3 @@
-Below is the updated README with the Creative Commons Attribution-NonCommercial (CC BY-NC) license added:
-
----
-
 # WiFi Location Comparator
 
 This Python script uses the [Wigle API](https://api.wigle.net/swagger) to retrieve the geographical coordinates of WiFi access points based on their SSIDs and then compares them to find common location matches. When matching coordinates are found (within a defined threshold), the script provides Google Maps links for the common locations.
